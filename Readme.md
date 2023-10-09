@@ -32,7 +32,7 @@ Send text messages and also try the drawing feature to share creative drawings d
 Enjoy chatting and drawing with Ri.chat!
 
 Screenshots
-![Screenshot 1](C:\Users\lenovo\OneDrive\Documents\GitHub\Ri.Chat\Screenshot/IMG-20231009-WA0024.jpg)
+![Screenshot 1](Ri.Chat/Screenshot/IMG-20231009-WA0024.jpg)
 ![Screenshot 2](screenshots/IMG-20231009-WA0028.jpg)
 ![Screenshot 3](screenshots/IMG-20231009-WA0029.jpg)
 ![Screenshot 4](screenshots/IMG-20231009-WA0030.jpg)
