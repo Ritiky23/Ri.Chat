@@ -42,14 +42,36 @@
 
 <h2>Screenshots</h2>
 
-![Screenshot 1](Screenshot/screenshot1.jpg)
-![Screenshot 2](Screenshot/screenshot2.jpg)
-![Screenshot 3](Screenshot/screenshot3.jpg)
-![Screenshot 4](Screenshot/screenshot4.jpg)
-![Screenshot 5](Screenshot/screenshot5.jpg)
-![Screenshot 6](Screenshot/screenshot6.jpg)
-![Screenshot 7](Screenshot/screenshot7.jpg)
-![Screenshot 8](Screenshot/screenshot8.jpg)
+<p align="center">
+  <img src="Screenshot/screenshot1.jpg" alt="Screenshot 1" width="400" />
+</p>
+<p align="center">
+  <img src="Screenshot/screenshot2.jpg" alt="Screenshot 2" width="400" />
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot3.jpg" alt="Screenshot 3" width="400" />
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot4.jpg" alt="Screenshot 4" width="400" />
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot5.jpg" alt="Screenshot 5" width="400" />
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot6.jpg" alt="Screenshot 6" width="400" />
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot7.jpg" alt="Screenshot 7" width="400" />
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot8.jpg" alt="Screenshot 8" width="400" />
+</p>
 
 <h2>Contributing</h2>
 
