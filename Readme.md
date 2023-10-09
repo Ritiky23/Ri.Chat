@@ -32,14 +32,14 @@ Send text messages and also try the drawing feature to share creative drawings d
 Enjoy chatting and drawing with Ri.chat!
 
 Screenshots
-![Screenshot 1](Ri.Chat/Screenshot/screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/IMG-20231009-WA0029.jpg)
-![Screenshot 4](screenshots/IMG-20231009-WA0030.jpg)
-![Screenshot 5](screenshots/IMG-20231009-WA0031.jpg)
-![Screenshot 6](screenshots/IMG-20231009-WA0032.jpg)
-![Screenshot 7](screenshots/IMG-20231009-WA0033.jpg)
-![Screenshot 8](screenshots/IMG-20231009-WA0035.jpg)
+![Screenshot 1](Screenshot/screenshot1.jpg)
+![Screenshot 2](screenshot/screenshot2.jpg)
+![Screenshot 3](screenshot/screenshot3.jpg)
+![Screenshot 4](screenshot/screenshot4.jpg)
+![Screenshot 5](screenshot/screenshot5.jpg)
+![Screenshot 6](screenshot/screenshot6.jpg)
+![Screenshot 7](screenshot/screenshot7.jpg)
+![Screenshot 8](screenshot/screenshot8.jpg)
 
 
 
