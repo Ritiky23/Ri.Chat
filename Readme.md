@@ -33,13 +33,13 @@ Enjoy chatting and drawing with Ri.chat!
 
 Screenshots
 ![Screenshot 1](Screenshot/screenshot1.jpg)
-![Screenshot 2](screenshot/screenshot2.jpg)
-![Screenshot 3](screenshot/screenshot3.jpg)
-![Screenshot 4](screenshot/screenshot4.jpg)
-![Screenshot 5](screenshot/screenshot5.jpg)
-![Screenshot 6](screenshot/screenshot6.jpg)
-![Screenshot 7](screenshot/screenshot7.jpg)
-![Screenshot 8](screenshot/screenshot8.jpg)
+![Screenshot 2](Screenshot/screenshot2.jpg)
+![Screenshot 3](Screenshot/screenshot3.jpg)
+![Screenshot 4](Screenshot/screenshot4.jpg)
+![Screenshot 5](Screenshot/screenshot5.jpg)
+![Screenshot 6](Screenshot/screenshot6.jpg)
+![Screenshot 7](Screenshot/screenshot7.jpg)
+![Screenshot 8](Screenshot/screenshot8.jpg)
 
 
 
