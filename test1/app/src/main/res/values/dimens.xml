@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="erase_button_margin_bottom">100dp</dimen>
+    <dimen name="erase_button_margin_right">100dp</dimen>
+    <dimen name="erase_button_bottom_margin">100dp</dimen>
+    <dimen name="erase_button_size">20dp</dimen>
+    <dimen name="clear_button_icon_padding">8dp</dimen>
+    <dimen name="clear_button_width">5sp</dimen>
+
+</resources>
