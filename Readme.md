@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/Ri.chat.git
+git clone https://github.com/Ritiky23/Ri.chat.git
 Open the project in Android Studio.
 
 Build and run the app on an Android emulator or device.
