@@ -43,10 +43,10 @@
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="Screenshot/screenshot1.jpg" alt="Screenshot 1" width="500" height="500"/>
+  <img src="Screenshot/screenshot1.jpg" alt="Screenshot 1" width="300" height="300"/>
 </p>
 <p align="center">
-  <img src="Screenshot/screenshot2.jpg" alt="Screenshot 2" width="500" height="500"/>
+  <img src="Screenshot/screenshot2.jpg" alt="Screenshot 2" width="300" height="300"/>
 </p>
 
 <p align="center">
